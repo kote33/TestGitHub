@@ -8,9 +8,14 @@ namespace Git
 {
     class Program
     {
+        string variable = "Hello Git";
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
         }
+
+        public void AddNewMethod()
+        {   }
     }
 }
