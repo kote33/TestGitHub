@@ -12,10 +12,7 @@ namespace Git
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git");
+           
         }
-
-        public void AddNewMethod()
-        {   }
     }
 }
